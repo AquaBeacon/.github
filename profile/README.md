@@ -1,60 +1,24 @@
-<div align="center">
+# AquaBeacon
 
-# 🌊 AquaBeacon
+**光と音で、水中の位置を知る。**
 
-**Illuminating the way forward — an open-source lighthouse for the AquaBeacon project.**
+AquaBeacon（アクアビーコン）は、光と音を組み合わせて水中の位置推定・マッピングを目指すオープンソースプロジェクトです。水上の親機と水中の子機をつなぎ、音で距離を、光で方向を捉える仕組みを開発しています。
 
-[![License](https://img.shields.io/badge/license-TBD-0EA5E9?style=flat-square)](#license--ライセンス)
-[![Website](https://img.shields.io/badge/website-coming_soon-06B6D4?style=flat-square)](#)
-[![Discussions](https://img.shields.io/badge/discussions-welcome-0891B2?style=flat-square)](https://github.com/orgs/AquaBeacon/discussions)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square)](#contributing--コントリビュート)
+**COMING SOON ...**
 
-<sub>English follows each Japanese section below · 日本語の下に英語が続きます</sub>
+ソフトウェア・ハードウェア設計・検証ドキュメント・使い方を順次公開予定です。
 
-</div>
+紹介サイト：https://aquabeacon.github.io/
 
----
+## リポジトリ
 
-## 📖 概要 / About
+- [紹介サイトのソース](https://github.com/AquaBeacon/aquabeacon.github.io)
+- [プロフィール・共通の参加手順](https://github.com/AquaBeacon/.github)
 
-AquaBeacon は、海のように広く自由な発想を大切にしながら、灯台のように進むべき方向を示すプロジェクトです。
-このオーガニゼーションでは、AquaBeacon に関する成果物・ツール・ドキュメントをオープンソースとして公開していきます。
+## About
 
-> AquaBeacon values open, ocean-wide thinking while guiding the way forward like a lighthouse.
-> This organization hosts the open-source outputs, tools, and documentation produced by the AquaBeacon project.
+AquaBeacon is an open-source project in development for underwater positioning and mapping, combining acoustic ranging with optical direction sensing. Software, hardware designs, and documentation are being prepared for release.
 
-## 🧭 リポジトリ / Repositories
+## 参加・利用について
 
-| Repository | 説明 / Description |
-| --- | --- |
-| [`.github`](https://github.com/AquaBeacon/.github) | このオーガニゼーションのプロフィール・共通設定 / Org profile & shared community health files |
-
-> 新しいリポジトリが公開されるたびに、ここに追記していきます。
-> This table will be updated as new repositories are published.
-
-## 🌱 コントリビュート / Contributing
-
-Issue・Pull Request・Discussion、どのような形の貢献も歓迎します。
-各リポジトリの `CONTRIBUTING.md`(準備中)をご確認のうえ、お気軽にご参加ください。
-
-> Issues, pull requests, and discussions are all welcome. Please check each repository's
-> `CONTRIBUTING.md` (coming soon) before getting involved.
-
-## 📬 連絡先 / Contact
-
-質問・提案は [Discussions](https://github.com/orgs/AquaBeacon/discussions) または各リポジトリの Issue にてお願いします。
-
-> For questions or suggestions, please use [Discussions](https://github.com/orgs/AquaBeacon/discussions)
-> or open an issue on the relevant repository.
-
-## 📄 ライセンス / License
-
-各リポジトリのライセンスはそれぞれのリポジトリ内でご確認ください。
-
-> License terms are defined individually within each repository.
-
----
-
-<div align="center">
-<sub>🌊 Made with care by the AquaBeacon community</sub>
-</div>
+公開済みリポジトリのIssue・Pull Requestへ質問や改善提案をお寄せください。利用条件は各リポジトリのLICENSEを参照してください。ライセンス未記載の成果物には、オープンソースとしての利用許諾はまだ付与されていません。
