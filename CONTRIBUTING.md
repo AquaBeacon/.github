@@ -1,6 +1,6 @@
 # Contributing
 
-AquaBeaconへの関心をお寄せいただきありがとうございます。詳細資料は公開準備中です。
+AquaBeaconへの関心をお寄せいただきありがとうございます。[プロジェクト一覧と開発の入口](https://github.com/AquaBeacon/workspace-tools)から対象リポジトリのREADME・DEVELOPMENT.mdを参照してください。
 
 - 質問・提案は対象リポジトリのIssueへ。対象、目的、期待する結果を記載してください。
 - 不具合報告には環境、再現手順、期待した動作、実際の動作を含めてください。
